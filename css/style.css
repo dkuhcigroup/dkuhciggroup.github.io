@@ -3296,6 +3296,14 @@ textarea.form-control-lg {
   margin-bottom: 0;
   list-style: none; }
 
+  .profile-nav{
+    color: #131313;
+    position: absolute;
+    top: 0;
+    z-index: 9;
+    width: 100%;
+  }
+
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
@@ -6372,6 +6380,9 @@ textarea.form-control-lg {
 
 .bg-dark {
   background-color: #212529 !important; }
+
+.bg-black {
+    background-color: #131313 !important; }
 
 .bg-body {
   background-color: #fff !important; }
